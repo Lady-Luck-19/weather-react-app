@@ -1,0 +1,12 @@
+body {
+	background-image: url('./Images/background.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 18vh;
+}
+
+.wrap-all-items {
+	text-align: center;
+	margin-top: 15%;
+
+}
